@@ -1,0 +1,4 @@
+dependencies {
+    // 公共工具类依赖
+    implementation 'org.apache.commons:commons-lang3:3.12.0'
+}

@@ -1,0 +1,5 @@
+dependencies {
+    implementation project(':service') // 依赖service模块
+    implementation project(':common')  // 依赖common模块
+    implementation 'org.springframework.boot:spring-boot-starter-web'
+}
